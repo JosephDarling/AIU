@@ -3,13 +3,13 @@
     <head>
         <title>Home - Approved Iphone Unlock</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <script type="text/javascript" src="{{ asset('public/scripts/jquery-3.2.1.min.js') }}"></script>
-        <script type="text/javascript" src="{{ asset('public/scripts/bootstrap.js') }}"></script>
-        <script type="text/javascript" src="{{ asset('public/scripts/approvediphoneunlock.js') }}"></script>
-        <link rel="stylesheet" href="{{ asset('public/css/bootstrap.css') }}" />
-        <link rel="stylesheet" href="{{ asset('public/css/font-awesome.css') }}" />
+        <script type="text/javascript" src="{{ asset('scripts/jquery-3.2.1.min.js') }}"></script>
+        <script type="text/javascript" src="{{ asset('scripts/bootstrap.js') }}"></script>
+        <script type="text/javascript" src="{{ asset('scripts/approvediphoneunlock.js') }}"></script>
+        <link rel="stylesheet" href="{{ asset('css/bootstrap.css') }}" />
+        <link rel="stylesheet" href="{{ asset('css/font-awesome.css') }}" />
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cabin" />
-        <link rel="stylesheet" href="{{ asset('public/css/approvediphoneunlock.css') }}" />
+        <link rel="stylesheet" href="{{ asset('css/approvediphoneunlock.css') }}" />
     </head>
 
     <body>
