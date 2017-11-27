@@ -8,22 +8,35 @@
         <script type="text/javascript" src="{{ asset('scripts/approvediphoneunlock.js') }}"></script>
         <link rel="stylesheet" href="{{ asset('css/bootstrap.css') }}" />
         <link rel="stylesheet" href="{{ asset('css/font-awesome.css') }}" />
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cabin" />
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800" />
         <link rel="stylesheet" href="{{ asset('css/approvediphoneunlock.css') }}" />
     </head>
 
     <body>
     <header>
-        <nav class="navbar navbar-inverse navbar-fixed-top">
+        <nav class="navbar">
             <div class="container">
                 <div class="navbar-header">
                     <a class="navbar-brand" href="#">Approved iPhone Unlock</a>
                 </div>
                 <ul class="nav navbar-nav">
-                    <li class="active"><a href="#">Home</a></li>
-                    <li><a href="#">Price List</a></li>
-                    <li><a href="#">FAQ</a></li>
-                    <li><a href="#">Order Tracking</a></li>
+                    <li class="active">
+                        <a href="#">Home</a>
+                    </li>
+                    <li>
+                        <a href="#">Price List</a>
+                    </li>
+                    <li>
+                        <a href="#">Order Tracking</a>
+                    </li>
+                </ul>
+                <ul class="nav navbar-nav pull-right">
+                    <li>
+                        <a href="" title="">Register</a>
+                    </li>
+                    <li>
+                        <a href="#" title="" class="text-green">Login</a>
+                    </li>
                 </ul>
             </div>
         </nav>
